@@ -1,4 +1,4 @@
-EaseMob SDK Examples Android
+EaseMob Satyam Android
 ============================
 
 
